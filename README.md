@@ -6,7 +6,3 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
-
-
-##snake eating my contribution graph
-![snake gif](https://github.com/emreduman3000/emreduman3000/blob/output/github-contribution-grid-snake.gif)

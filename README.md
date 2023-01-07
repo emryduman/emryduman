@@ -23,13 +23,13 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Software QA Engineer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Toronto/Canada.
-- :telescope: I’m working as a SDET and contributing to automation frameworks for web/mobile applications.
+- :telescope: I’m working as a SDET and contributing to automation testing frameworks for web/mobile applications.
 
 - :seedling: Exploring Cloud/Devops technologies to implement into Test Life Cycle.
 
 - :zap: In my free time, I'm tutoring to my lovely students.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-emreduman-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-emreduman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emredumann/)
 
 ---
 

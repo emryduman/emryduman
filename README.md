@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/emreduman3000/emreduman3000/blob/main/emre.jpg?raw=true" width="330" height="330" alt="me">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
 

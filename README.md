@@ -1,6 +1,9 @@
 
 <img src="https://github.com/emreduman3000/emreduman3000/blob/main/emre.jpg?raw=true" width="300" height="400">
 <h1 align="center">Hi, I'm EMRE DUMAN </h1>
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif)" width="100"/>
+</div>
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)

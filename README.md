@@ -20,7 +20,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+###  About Me :
 I am a Full Stack Software QA Engineer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Toronto/Canada.
 - :telescope: I’m working as a SDET and contributing to automation testing frameworks for web/mobile applications.
@@ -33,7 +33,7 @@ I am a Full Stack Software QA Engineer
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+###  Languages and Tools :
 <div>
        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -56,11 +56,11 @@ I am a Full Stack Software QA Engineer
 
 ---
 
-### :fire: My Stats :
+###  My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emryduman&theme=radical&border_radius=50&border=8DB63F&background=000000&ring=6E9EF1&stroke=63DD51&fire=D00808)](https://git.io/streak-stats)
 
 ---
 
-### :writing_hand: My Contributions :
+###  My Contributions :
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
